@@ -1,5 +1,11 @@
 # electron-builder
 
+## 23.4.1
+
+### Patch Changes
+
+- [#7078](https://github.com/electron-userland/electron-builder/pull/7078) [`48cbb120`](https://github.com/electron-userland/electron-builder/commit/48cbb120dc11994889f4aa61c8431531ce274006) Thanks [@mmaietta](https://github.com/mmaietta)! - fix: replace update-notifier with simple-update-notifier due to security alert
+
 ## 23.4.0
 
 ### Patch Changes

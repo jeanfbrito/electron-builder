@@ -1,3 +1,13 @@
+# [](https://github.com/electron-userland/electron-builder/compare/v23.4.0...v) (2022-08-22)
+
+
+### Bug Fixes
+
+* replace update-notifier with simple-update notifier due to dependency vulnerability ([#7078](https://github.com/electron-userland/electron-builder/issues/7078)) ([48cbb12](https://github.com/electron-userland/electron-builder/commit/48cbb120dc11994889f4aa61c8431531ce274006))
+* updating integration test for prerelease flag ([#7072](https://github.com/electron-userland/electron-builder/issues/7072)) ([f205998](https://github.com/electron-userland/electron-builder/commit/f205998999ff615c9ea63184520a1efbbff5a785))
+
+
+
 # [](https://github.com/electron-userland/electron-builder/compare/v23.3.3...v) (2022-07-28)
 
 
